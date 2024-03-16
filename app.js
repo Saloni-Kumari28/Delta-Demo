@@ -1,2 +1,2 @@
-//add new features --form
+//add new feature --form
 //add new feature  --button
